@@ -14,3 +14,22 @@ Educational RTOS scheduler simulator that demonstrates preemptive scheduling, pr
 
 
 Outputs: CSV timeline files (rtos_timeline*.csv) and interactive Gantt charts (matplotlib).
+
+
+## Features:
+
+✅ Round-robin & priority scheduling
+
+✅ Task preemption with quantum (time slice)
+
+✅ Sleep/yield simulation
+
+✅ Semaphore (producer-consumer demo)
+
+✅ Mutex (critical section protection)
+
+✅ Dual-core scheduling (basic SMP behavior)
+
+✅ Gantt-chart visualization of CPU timeline
+
+✅ Clean and modular OOP project in Python
